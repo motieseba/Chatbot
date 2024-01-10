@@ -1,0 +1,13 @@
+INFO:chatbot:Program started
+INFO:root:None
+INFO:root:None
+INFO:root:chtbot started reading questions
+INFO:root:Ask me something:
+INFO:root:input: ['hello']
+INFO:root:no valid input found, printing possible questions
+INFO:chatbot:None
+INFO:root:Ask me something:
+INFO:root:input: ['when does the summersemester start ?']
+INFO:root:question input question found, printing answer
+INFO:chatbot:the summersemester begin on 1st october
+INFO:root:Ask me something:

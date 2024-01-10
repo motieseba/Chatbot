@@ -1,0 +1,3 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): open-weather13.p.rapidapi.com:443
+DEBUG:urllib3.connectionpool:https://open-weather13.p.rapidapi.com:443 "GET /city/ HTTP/1.1" 404 None
+INFO:root:None

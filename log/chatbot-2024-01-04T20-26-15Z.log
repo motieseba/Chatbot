@@ -1,0 +1,30 @@
+INFO:chatbot:Program started
+INFO:root:None
+INFO:root:None
+INFO:root:chtbot started reading questions
+INFO:root:Ask me something:
+INFO:root:input: ['hello']
+INFO:root:no valid input found, printing possible questions
+INFO:chatbot:None
+INFO:root:Ask me something:
+INFO:root:input: ['when does the wintersemester start ?']
+INFO:root:question input question found, printing answer
+INFO:chatbot:the wintersemester begin on 1st october"
+INFO:root:Ask me something:
+INFO:root:input: ['semester']
+INFO:root:subject input keyword found, printing all related questions
+INFO:chatbot:['when does the wintersemester start ?', 'when does the summersemester start ?']
+INFO:chatbot:0
+INFO:chatbot:the wintersemester start on 1st of october
+INFO:root:None
+INFO:root:Ask me something:
+INFO:root:input: ['event']
+INFO:root:subject input keyword found, printing all related questions
+INFO:chatbot:['when and where the IA global Event will be ?']
+INFO:chatbot:0
+INFO:chatbot:city: Clausthal-Zellerfeld , date:28-12-2023 , location:Tu Clausthal
+INFO:root:None
+INFO:root:Ask me something:
+INFO:root:input: ['bye']
+INFO:root:bye input detected, exitin
+INFO:root:None

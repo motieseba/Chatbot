@@ -1,0 +1,9 @@
+INFO:chatbot:Program started
+INFO:root:None
+INFO:root:None
+INFO:root:chtbot started reading questions
+INFO:root:Ask me something:
+INFO:root:input: ['event']
+INFO:root:subject input keyword found, printing all related questions
+INFO:chatbot:['when and where the IA global Event will be ?']
+INFO:chatbot:0

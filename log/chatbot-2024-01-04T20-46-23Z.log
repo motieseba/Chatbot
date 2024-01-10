@@ -1,0 +1,13 @@
+INFO:chatbot:Program started
+INFO:root:None
+INFO:root:None
+INFO:root:chtbot started reading questions
+INFO:root:Ask me something:
+INFO:root:input: ['event']
+INFO:root:subject input keyword found, printing all related questions
+INFO:chatbot:['when and where the IA global Event will be ?']
+INFO:chatbot:0
+INFO:root:question input is event, printing event
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): open-weather13.p.rapidapi.com:443
+DEBUG:urllib3.connectionpool:https://open-weather13.p.rapidapi.com:443 "GET /city/Clausthal-Zellerfeld HTTP/1.1" 200 None
+INFO:chatbot:city: Clausthal-Zellerfeld , date:28-12-2023 , location:Tu Clausthal

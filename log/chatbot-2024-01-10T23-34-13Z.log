@@ -1,0 +1,10 @@
+INFO:chatbot:Here are possible questions:
+INFO:chatbot:random answer
+INFO:chatbot:['What majors are offered at Ostfalia?', 'Can you tell me about the Computer Science program at Ostfalia?']
+INFO:chatbot:1
+INFO:chatbot:The CS program at Ostfalia covers many topics refer to the course catalog on our website.
+INFO:chatbot:['What majors are offered at Ostfalia?', 'Can you tell me about the Computer Science program at Ostfalia?']
+INFO:chatbot:0
+INFO:chatbot:Ostfalia University offers a variety of majors Check our website.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): open-weather13.p.rapidapi.com:443
+INFO:root:None
