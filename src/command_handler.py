@@ -78,7 +78,7 @@ def go_directly_to(chatbot):
 
             if not chatbot.is_question_or_variation(parsed_question, 'Question', 'Question_Variation'):
                 logger.info("Question not in data")
-                add_row_to_csv(chatbot.df,parsed_question, parsed_subjects, parsed_answers,'c:\\Users\\smoti\\Documents\\digi\\digitec_chatbot\\data\\chatbotdata.csv')
+                add_row_to_csv(chatbot.df,parsed_question, parsed_subjects, parsed_answers,'data/chatbotdata.csv')
                 logger.info("Question added to data")
             else:
                 print("Err Question already in data")
@@ -111,7 +111,7 @@ def go_directly_to(chatbot):
                 print("Parsed Questions:", parsed_questions)
                 print("Parsed Subjects:", parsed_subjects)
                 print("Parsed Answers:", parsed_answers)
-                add_row_to_csv(chatbot.df,parsed_questions, parsed_subjects, parsed_answers,'c:\\Users\\smoti\\Documents\\digi\\digitec_chatbot\\data\\chatbotdata.csv')
+                add_row_to_csv(chatbot.df,parsed_questions, parsed_subjects, parsed_answers,'data/chatbotdata.csv')
         else:
             print('Question is already added')
             
