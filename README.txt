@@ -3,7 +3,7 @@ Chatbot Digital Project
 
 ## Description
 
-This project is a Chabot for Ostfalia University that responds to user inputs and provides corresponding responses. The chatbot uses data from a CSV file to generate responses to user queries.
+This project is a Chabot for Ostfalia University that responds to user inputs and provides corresponding responses. The chatbot uses CSV file data to generate user query responses.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -20,11 +20,11 @@ python -m venv .venv
 pip install -r requirements.txt
 
 3-add src to python path :
-get the path to src folder
+get the path to the src folder
 
-in my case it is:    E:/Chatbot-main/Chatbot-main/src
+in my case, it is:    E:/Chatbot-main/Chatbot-main/src
 
-if Mac you are user run this command:
+if you are a Mac user run this command:
     export PYTHONPATH="${PYTHONPATH}:E:/Chatbot-main/Chatbot-main/src"
 else a Windows user:
     $env:PYTHONPATH += ";E:\Chatbot-main\Chatbot-main\src"
@@ -37,13 +37,13 @@ else a Windows user:
 to start the chatbot use this command 
 python -m bin.main
 
-you can add arguments , to see the possible arguments 
+you can add arguments, to see the possible arguments 
 
 python -m bin.main --help
 
 
 
-you can also run it using this command ,but you can not add an arguments:
+you can also run it using this command,but you can not add an argument:
 
 python -m App
 
